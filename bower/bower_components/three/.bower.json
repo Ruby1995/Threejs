@@ -1,0 +1,12 @@
+{
+  "name": "three",
+  "_cacheHeaders": {
+    "Last-Modified": "Fri, 16 Oct 2015 07:04:45 GMT",
+    "Content-Type": "application/javascript"
+  },
+  "main": "index.js",
+  "_source": "https://cdnjs.cloudflare.com/ajax/libs/three.js/r73/three.js",
+  "_target": "*",
+  "_originalSource": "https://cdnjs.cloudflare.com/ajax/libs/three.js/r73/three.js",
+  "_direct": true
+}
